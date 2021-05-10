@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Hydrominder</string>
+    <string name="textView">Hydrominder</string>
+    <string name="ageprompt">Please select your age:</string>
+    <string name="genderprompt">Please select your gender:</string>
+    <string name="nextbutton">Next</string>
+    <string name="fluidintake">Based on your age and gender, it is recommended you consume 9 cups a day!</string>
+    <string name="remind">Please select what time interval you would like to be reminded in:</string>
+    <string name="offhours">Please select the hours you would NOT like to be reminded in:</string>
+    <string name="email">Please enter your email:</string>
+    <string name="number">Please enter your number:</string>
+    <string name="set">set</string>
+
+
+    <string-array name="age">
+        <item>Choose age</item>
+        <item>4–8</item>
+        <item>9–13</item>
+        <item>14–18</item>
+        <item>19+</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Choose gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>25 mins</item>
+        <item>30 mins</item>
+        <item>45 mins</item>
+        <item>60 mins</item>
+        <item>90 mins</item>
+        <item>120 mins</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
